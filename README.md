@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world 👋
+Sam Owolabi is a product centric Software Engineer unapologetically focused on building and delivering products that serves users,
+keeps them happy and retains them. He build products that gains traction in the world market, generate revenue for companies. He is a skilled fullstack developer and a product designer.
+
+His core technologies: Javascript (React, Node JS), Typescript, PHP, MySQL
 
 <!--
 **samowolabi/samowolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
