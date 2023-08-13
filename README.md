@@ -4,6 +4,10 @@ keeps them happy and retains them. He build products that gains traction in the 
 
 His core technologies: Javascript (React, Node JS), Typescript, PHP, MySQL
 
+- 🌱 I’m currently learning more on System Design and Cloud Engineering
+- 💬 Ask me anything about building fullstack products, and even in my sleep, ask me anything Javascript 😂
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-owolabi-36330711b/) [Twitter](https://twitter.com/samowolabi_) [Email](mailto:twitter.com/samowolabi_)
+
 <!--
 **samowolabi/samowolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
