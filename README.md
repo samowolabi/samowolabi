@@ -1,5 +1,5 @@
 ### Hello world 👋
-Sam Owolabi is a product centric Software Engineer unapologetically focused on building and delivering products that serves users,
+Sam Owolabi is a product centric software engineer unapologetically focused on building and delivering products that serves users,
 keeps them happy and retains them. He build products that gains traction in the world market, generate revenue for companies. He is a skilled fullstack developer and a product designer.
 
 ### :hammer_and_wrench: Javascript (React, Node JS), Typescript, PHP, MySQL
@@ -26,6 +26,7 @@ keeps them happy and retains them. He build products that gains traction in the 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-owolabi-36330711b/) [Twitter](https://twitter.com/samowolabi_) [Email](mailto:owolabisamuel15@gmail.com)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samowolabi&theme=dark)](https://git.io/streak-stats)
+  
 
 <!--
 **samowolabi/samowolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
