@@ -23,7 +23,7 @@ keeps them happy and retains them. He build products that gains traction in the 
 
 
 - 🌱 I’m currently learning more on System Design and Cloud Engineering
-- 💬 Ask me anything about building fullstack products, and even in my sleep, ask me anything Javascript 😂
+- 💬 Ask me anything about building fullstack products, even in my sleep, ask me anything Javascript 😂
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-owolabi-36330711b/) [Twitter](https://twitter.com/samowolabi_) [Email](mailto:owolabisamuel15@gmail.com)
 - ⚡ Fun fact: Water happens to be my best drink.
 
