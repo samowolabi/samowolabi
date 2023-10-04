@@ -2,7 +2,7 @@
 Sam Owolabi is a product centric software engineer unapologetically focused on building and delivering products that serves users,
 keeps them happy and retains them. He build products that gains traction in the world market, generate revenue for companies. He is a skilled fullstack developer and a product designer.
 
-### :hammer_and_wrench: Javascript (React, Node JS), Typescript, PHP, MySQL
+### :hammer_and_wrench: Javascript (React, Node JS), Express JS, Typescript, SQL, MongoDB, PHP, MySQL
 
 <div class="">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
