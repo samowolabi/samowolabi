@@ -20,8 +20,6 @@ keeps them happy and retains them. He build products that gains traction in the 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<script src="https://gist.github.com/ejirocodes/e007d39e48e1f6db27430dd0373dabb7.js"></script>
-
 - 🌱 I’m currently learning more on System Design and Cloud Engineering
 - 💬 Ask me anything about building fullstack products, even in my sleep, ask me anything Javascript 😂
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-owolabi-36330711b/) [Twitter](https://twitter.com/samowolabi_) [Email](mailto:owolabisamuel15@gmail.com)
